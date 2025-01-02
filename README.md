@@ -34,33 +34,7 @@
 
 ---
 
-## Technologies Used
-
-- **Back-End**: .NET Core (ASP.NET Core API)  
-- **Front-End**: Tailwind CSS, HTML, JavaScript  
-- **Database**: SQL Server or PostgreSQL  
-- **Machine Learning**: (for AI-driven task suggestions)  
-- **Desktop App Framework**:  
-- **Data Visualization**:
-- **Authentication**: JWT or OAuth2 (Role-based Access Control)  
-- **Cloud Sync**:  
-- **Notifications**:
-
----
-
-## How to Use
-
-1. **Login**: Open the app and sign in using your credentials. New users can create an account.
-2. **Add Tasks**: Click on "Add Task" to create a new task. Set a deadline, priority, and category.
-3. **Track Time**: Use the integrated timer to track time spent on tasks.
-4. **AI Recommendations**: The app will suggest tasks to prioritize based on your habits and patterns.
-5. **Pomodoro Sessions**: Set Pomodoro intervals for focused work (25 minutes working, 5 minutes break).
-6. **View Reports**: View productivity charts and reports in the "Reports" section.
-7. **Sync Data**: Tasks will sync automatically to the cloud when connected to the internet.
-
----
-
-### **Project Phases**
+## Project Phases
 
 **Phase 1: Foundation and Setup (Weeks 1–6)======> CURRENT**
 - **Tasks**: Set up the project structure with basic functionality (task management, time tracking, etc.).
@@ -85,5 +59,33 @@
 **Phase 6: Testing and Deployment (Weeks 26–30)**
 - **Tasks**: Test the entire system (unit, integration, UI testing), deploy to a production environment.
 - **Technologies**: NUnit, Git, CI/CD.
+
+---
+
+## Technologies Used
+
+- **Back-End**: .NET Core (ASP.NET Core API)  
+- **Front-End**: Tailwind CSS, HTML, JavaScript  
+- **Database**: SQL Server or PostgreSQL  
+- **Machine Learning**: (for AI-driven task suggestions)  
+- **Desktop App Framework**:  
+- **Data Visualization**:
+- **Authentication**: JWT or OAuth2 (Role-based Access Control)  
+- **Cloud Sync**:  
+- **Notifications**:
+
+---
+
+## How to Use
+
+1. **Login**: Open the app and sign in using your credentials. New users can create an account.
+2. **Add Tasks**: Click on "Add Task" to create a new task. Set a deadline, priority, and category.
+3. **Track Time**: Use the integrated timer to track time spent on tasks.
+4. **AI Recommendations**: The app will suggest tasks to prioritize based on your habits and patterns.
+5. **Pomodoro Sessions**: Set Pomodoro intervals for focused work (25 minutes working, 5 minutes break).
+6. **View Reports**: View productivity charts and reports in the "Reports" section.
+7. **Sync Data**: Tasks will sync automatically to the cloud when connected to the internet.
+
+
 
 

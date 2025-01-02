@@ -59,9 +59,9 @@
 
 - **Back-End**: .NET Core (ASP.NET Core API)  
 - **Front-End**: Tailwind CSS, HTML, JavaScript  
-- **Database**: SQL Server or PostgreSQL  
+- **Database**: SQL Server
 - **Data Visualization**:
-- **Authentication**: JWT or OAuth2 (Role-based Access Control)  
+- **Authentication**: JWT  (Role-based Access Control)  
 
 ---
 

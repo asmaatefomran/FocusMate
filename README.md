@@ -62,7 +62,7 @@
 
 ### **Project Phases**
 
-**Phase 1: Foundation and Setup (Weeks 1–6)**
+**Phase 1: Foundation and Setup (Weeks 1–6)======> CURRENT**
 - **Tasks**: Set up the project structure with basic functionality (task management, time tracking, etc.).
 - **Technologies**: C#, OOP concepts, basic file structure.
 
